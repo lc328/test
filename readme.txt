@@ -1,1 +1,1 @@
-init project sdfsdfa
+init project
